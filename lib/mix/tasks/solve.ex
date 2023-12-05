@@ -8,6 +8,8 @@ defmodule Mix.Tasks.Solve do
 		"1P2" => Day1P2,
 		"2P1" => Day2P1,
 		"2P2" => Day2P2,
+		"3P1" => Day3P1,
+		"3P2" => Day3P2,
 	}
 
 	use Mix.Task
